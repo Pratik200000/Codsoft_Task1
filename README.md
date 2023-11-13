@@ -1,4 +1,5 @@
 ##Titanic Survival Prediction using Data Science
+
 This project is a data science and machine learning endeavor aimed at predicting the survival of passengers on the ill-fated RMS Titanic. Leveraging a dataset containing passenger information such as age, gender, class, and more, this predictive model seeks to answer one of the most intriguing historical questions - "Who would have survived the Titanic disaster?"
 
 Overview The sinking of the Titanic in 1912 remains one of the most infamous maritime disasters in history. By utilizing data science techniques, we aim to gain insights into the factors that contributed to passenger survival. This project serves as an excellent introduction to data science for beginners and a practical example of predictive modeling for the seasoned data scientists.
